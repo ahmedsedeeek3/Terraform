@@ -1,6 +1,6 @@
 # Terraform Web Architecture
 
-This project provisions the architecture shown in your diagram:
+This project provisions the architecture shown in the diagram:
 
 - Route 53 (optional custom domain)
 - CloudFront distribution
